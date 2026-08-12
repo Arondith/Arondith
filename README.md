@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,php,js,html,css,mysql,git,github,arduino,blender,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,cpp,cs,css,django,figma,flutter,html,js,mysql,nodejs,opencv,postgres,py,react,tailwind,unity,php,git,github,vscode&perline=11)](https://skillicons.dev)
 
 <br/>
 
