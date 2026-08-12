@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:4C1D95,45:6E40C9,100:A371F7&text=ARONDITH&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:4C1D95,45:6E40C9,100:A371F7&text=ARONDITE&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
 ### Hi, I'm **Arondite** 👋
 
