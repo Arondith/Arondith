@@ -1,27 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6E40C9,50:8250DF,100:A371F7&text=ARONDITE&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=IT%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20%7C%20Web%20%26%20AR&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:4C1D95,45:6E40C9,100:A371F7&text=ARONDITH&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
 ### Hi, I'm **Arondite** 👋
 
-*IT student and developer building practical software, cybersecurity skills, responsive web experiences, and augmented reality projects.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=IT+Student+%26+Developer;Cybersecurity+%7C+Networking;Web+Development+%7C+Augmented+Reality;Building+practical+projects+that+solve+real+problems" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Arondith-181717?style=for-the-badge&logo=github)](https://github.com/Arondith)
-[![Profile Views](https://komarev.com/ghpvc/?username=Arondith&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arondith)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Arondith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith)
+[![Client Website](https://img.shields.io/badge/Live_Client_Project-Alchemists_%26_Architects-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alchemistsarchitects.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arondith&style=for-the-badge&label=PROFILE+VIEWS&color=6E40C9)](https://github.com/Arondith)
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 IT student based in the **Philippines**
-- 🌍 Successfully delivered a production website for an **international client**
-- 🔐 Focused on **cybersecurity, networking, and secure systems**
-- 🥽 Building augmented reality experiences with **Unity, C#, and Vuforia**
-- 🌐 Developing responsive web projects with **PHP, JavaScript, HTML, CSS, and MySQL**
-- ⚙️ Exploring **Arduino, Git/GitHub workflows, and software development**
-- 📚 Continuously learning through hands-on projects, professional certificates, and technical courses
 
 ---
 
@@ -31,27 +22,81 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,php,js,html,css,mysql,git,github,arduino,blender,vscode&perline=12)](https://skillicons.dev)
 
+<br/>
+
+![Vuforia](https://img.shields.io/badge/Vuforia-Augmented_Reality-6E40C9?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-8250DF?style=flat-square)
+![Networking](https://img.shields.io/badge/Focus-Networking-A371F7?style=flat-square)
+
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+```csharp
+public class Arondite
+{
+    public string Role     => "IT Student & Developer";
+    public string Location => "Philippines";
+
+    public string[] Focus =>
+    {
+        "Cybersecurity",
+        "Networking",
+        "Web Development",
+        "Augmented Reality"
+    };
+
+    public string[] Technologies =>
+    {
+        "C#", "Unity", "Vuforia",
+        "PHP", "JavaScript", "HTML", "CSS", "MySQL",
+        "Git", "GitHub", "Arduino", "Blender"
+    };
+
+    public string Highlight =>
+        "Successfully delivered a production website for an international client.";
+
+    public string Mindset =>
+        "Build useful things. Learn deeply. Improve continuously.";
+}
+```
 
 ---
 
 ## 💼 Client Work
 
-### ✨ Alchemists & Architects — International Client Website
+### ✨ Alchemists & Architects
 
-A successfully delivered production website for **Alchemists & Architects**, a Seattle-based luxury salon. I designed and developed a modern, responsive web experience that presents the salon's services through refined visuals, intuitive navigation, and an integrated booking experience.
+**International Client · Seattle, USA · Production Website**
 
-**Live Website:** [alchemistsarchitects.com](https://www.alchemistsarchitects.com/)  
-**Repository:** [Arondith/Alchemist45](https://github.com/Arondith/Alchemist45)
+I designed and developed a modern, responsive website for **Alchemists & Architects**, a luxury salon in Seattle. The project was successfully delivered and is currently live, presenting the client's hair, beauty, and wellness services through a refined visual experience, intuitive navigation, and online booking access.
+
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_WEBSITE-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alchemistsarchitects.com/)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith/Alchemist45)
+[![Status](https://img.shields.io/badge/STATUS-LIVE-2EA44F?style=for-the-badge)](https://www.alchemistsarchitects.com/)
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Current Focus
 
-- 🥽 **KoroAR** — a mobile augmented reality museum experience built with **Unity, C#, and Vuforia** to explore cultural heritage through interactive 3D content.
-- 📚 **[Schola](https://github.com/Arondith/Schola)** — a responsive front-end study platform prototype featuring planning tools, study resources, flashcards, a focus timer, and study-group interfaces.
-- 📊 **[GitHub Profile Analyzer](https://github.com/Arondith/your_username.github.io)** — a browser-based tool for analyzing public GitHub profiles using the **GitHub REST API**.
-- 🧠 **[CourseRecommender](https://github.com/Arondith/CourseRecommender)** — a web-based course recommendation and administration project built with **HTML, PHP, JavaScript, and database-backed authentication**.
+- 🥽 **KoroAR** — developing a mobile augmented reality museum experience using **Unity, C#, and Vuforia**, with interactive 3D cultural-heritage content.
+- 🔐 Strengthening practical knowledge in **cybersecurity, threat management, incident response, and secure systems**.
+- 🌐 Improving skills in **networking, web development, Git/GitHub workflows, and software development**.
+- 🧪 Continuing to build hands-on projects that turn technical concepts into working applications.
+
+---
+
+## 🧩 Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Alchemist45](https://github.com/Arondith/Alchemist45)** | Production website delivered for an international client | Web Development |
+| **KoroAR** | Mobile AR museum for exploring cultural heritage through interactive 3D content | Unity · C# · Vuforia |
+| **[Schola](https://github.com/Arondith/Schola)** | Responsive study-platform prototype with planning, resources, flashcards, and focus tools | HTML · CSS · JavaScript |
+| **[CourseRecommender](https://github.com/Arondith/CourseRecommender)** | Course recommendation and administration system with authentication | PHP · JavaScript · Database |
+| **[GitHub Profile Analyzer](https://github.com/Arondith/your_username.github.io)** | Browser-based public GitHub profile analyzer | JavaScript · GitHub REST API |
 
 ---
 
@@ -59,23 +104,32 @@ A successfully delivered production website for **Alchemists & Architects**, a S
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+<br/>
+<img src="https://img.shields.io/badge/Cisco_Networking_Academy-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management" />
 
 </div>
 
-- **Google Cybersecurity Professional Certificate** — Coursera, 2026
-- **Cyber Threat Management** — Cisco Networking Academy, 2026
-- Currently strengthening my skills in **cybersecurity, networking, software development, and GitHub workflows**.
+- 🎓 **Google Cybersecurity Professional Certificate** — Coursera, 2026
+- 🛡️ **Cyber Threat Management** — Cisco Networking Academy, 2026
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Networking & Cybersecurity
+
+- 🔎 Learning **threat identification, analysis, and incident-response concepts**.
+- 🌐 Building stronger foundations in **networking and network security**.
+- 🧰 Developing practical skills through **Cisco, Google/Coursera, and hands-on technical projects**.
+- 🔒 Interested in building software and systems with **security, reliability, and usability** in mind.
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arondith&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Arondith GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arondith&layout=compact&hide_border=true&theme=tokyonight" alt="Arondith top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arondith&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Arondith GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arondith&layout=compact&hide_border=true&theme=tokyonight" alt="Arondith top languages" />
 
 <br/>
 
@@ -85,7 +139,7 @@ A successfully delivered production website for **Alchemists & Architects**, a S
 
 ---
 
-## 🌐 Featured Repositories
+## 📌 Featured Repositories
 
 <div align="center">
 
@@ -101,7 +155,8 @@ A successfully delivered production website for **Alchemists & Architects**, a S
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-ARONDITH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith)
-[![Repositories](https://img.shields.io/badge/VIEW-MY%20PROJECTS-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith?tab=repositories)
+[![Projects](https://img.shields.io/badge/VIEW-MY_PROJECTS-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith?tab=repositories)
+[![Client Work](https://img.shields.io/badge/LIVE-CLIENT_WORK-A371F7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alchemistsarchitects.com/)
 
 </div>
 
@@ -109,8 +164,12 @@ A successfully delivered production website for **Alchemists & Architects**, a S
 
 <div align="center">
 
-### ⚡ Keep learning. Keep building. Keep improving.
+### `Build. Secure. Learn. Repeat.` ⚡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6E40C9,50:8250DF,100:A371F7" />
+<sub>Keep learning · Keep building · Keep improving</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:4C1D95,45:6E40C9,100:A371F7" />
+
+<sub>Last updated: August 2026</sub>
 
 </div>
