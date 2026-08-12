@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6E40C9,50:8250DF,100:A371F7&text=ARONDITE&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=IT%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20Learner&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6E40C9,50:8250DF,100:A371F7&text=ARONDITE&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=IT%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20%7C%20Web%20%26%20AR&descAlignY=55&animation=fadeIn" />
 
 ### Hi, I'm **Arondite** 👋
 
-*IT student and developer building practical software, exploring cybersecurity, and creating interactive experiences.*
+*IT student and developer building practical software, cybersecurity skills, responsive web experiences, and augmented reality projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arondith-181717?style=for-the-badge&logo=github)](https://github.com/Arondith)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arondith&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arondith)
@@ -16,11 +16,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 IT student based in the **Philippines**
-- 🔐 Interested in **cybersecurity, networking, and secure systems**
+- 🌍 Successfully delivered a production website for an **international client**
+- 🔐 Focused on **cybersecurity, networking, and secure systems**
 - 🥽 Building augmented reality experiences with **Unity, C#, and Vuforia**
-- 🌐 Developing web projects with **PHP, JavaScript, HTML, CSS, and MySQL**
+- 🌐 Developing responsive web projects with **PHP, JavaScript, HTML, CSS, and MySQL**
 - ⚙️ Exploring **Arduino, Git/GitHub workflows, and software development**
-- 📚 Always learning through hands-on projects, courses, and certifications
+- 📚 Continuously learning through hands-on projects, professional certificates, and technical courses
 
 ---
 
@@ -34,7 +35,18 @@
 
 ---
 
-## 🚀 Current Projects
+## 💼 Client Work
+
+### ✨ Alchemists & Architects — International Client Website
+
+A successfully delivered production website for **Alchemists & Architects**, a Seattle-based luxury salon. I designed and developed a modern, responsive web experience that presents the salon's services through refined visuals, intuitive navigation, and an integrated booking experience.
+
+**Live Website:** [alchemistsarchitects.com](https://www.alchemistsarchitects.com/)  
+**Repository:** [Arondith/Alchemist45](https://github.com/Arondith/Alchemist45)
+
+---
+
+## 🚀 Selected Projects
 
 - 🥽 **KoroAR** — a mobile augmented reality museum experience built with **Unity, C#, and Vuforia** to explore cultural heritage through interactive 3D content.
 - 📚 **[Schola](https://github.com/Arondith/Schola)** — a responsive front-end study platform prototype featuring planning tools, study resources, flashcards, a focus timer, and study-group interfaces.
@@ -43,14 +55,16 @@
 
 ---
 
-## 🛡️ Certifications & Learning
+## 🛡️ Certifications & Professional Learning
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
 <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management" />
 
 </div>
 
+- **Google Cybersecurity Professional Certificate** — Coursera, 2026
 - **Cyber Threat Management** — Cisco Networking Academy, 2026
 - Currently strengthening my skills in **cybersecurity, networking, software development, and GitHub workflows**.
 
@@ -75,8 +89,8 @@
 
 <div align="center">
 
+[![Alchemist45](https://github-readme-stats.vercel.app/api/pin/?username=Arondith&repo=Alchemist45&theme=tokyonight&hide_border=true)](https://github.com/Arondith/Alchemist45)
 [![Schola](https://github-readme-stats.vercel.app/api/pin/?username=Arondith&repo=Schola&theme=tokyonight&hide_border=true)](https://github.com/Arondith/Schola)
-[![CourseRecommender](https://github-readme-stats.vercel.app/api/pin/?username=Arondith&repo=CourseRecommender&theme=tokyonight&hide_border=true)](https://github.com/Arondith/CourseRecommender)
 
 </div>
 
