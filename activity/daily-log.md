@@ -1,0 +1,1 @@
+- 2026-08-12: Automated profile repository maintenance.
