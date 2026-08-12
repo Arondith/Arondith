@@ -128,12 +128,16 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arondith&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Arondith GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arondith&layout=compact&hide_border=true&theme=tokyonight" alt="Arondith top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arondith&theme=tokyonight" alt="Arondith GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arondith&theme=tokyonight" alt="Arondith top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Arondith&theme=tokyonight&hide_border=true" alt="Arondith GitHub streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arondith&theme=tokyonight" alt="Arondith GitHub activity summary" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Arondith&theme=tokyonight&hide_border=true" alt="Arondith GitHub streak" />
 
 </div>
 
