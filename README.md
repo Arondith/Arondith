@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6E40C9,50:8250DF,100:A371F7&text=ARONDITH&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=IT%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlignY=55&animation=fadeIn" />
 
-### Hi, I'm **Arondith** 👋
+### Hi, I'm **Arondite** 👋
 
 *Building software, exploring cybersecurity, and creating interactive experiences.*
 
