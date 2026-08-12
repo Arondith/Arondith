@@ -145,10 +145,42 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ## 📌 Featured Repositories
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ [Alchemist45](https://github.com/Arondith/Alchemist45)
+
+**International Client Website · Production Project**
+
+Responsive website created for **Alchemists & Architects**, a luxury salon in Seattle. Successfully delivered and currently live for the client.
+
+**Focus:** Responsive Web Design · Client Delivery · Production Deployment
+
+[![Repository](https://img.shields.io/badge/Repository-Alchemist45-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arondith/Alchemist45)
+[![Live Site](https://img.shields.io/badge/Live-Site-6E40C9?style=flat-square&logo=googlechrome&logoColor=white)](https://www.alchemistsarchitects.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Schola](https://github.com/Arondith/Schola)
+
+**Study Platform · Front-End Prototype**
+
+Responsive learning platform featuring a study planner, focus timer, resource library, flashcards, study groups, notes, and dashboard interactions.
+
+**Stack:** HTML · CSS · JavaScript
+
+[![Repository](https://img.shields.io/badge/Repository-Schola-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arondith/Schola)
+[![Status](https://img.shields.io/badge/Status-Prototype-A371F7?style=flat-square)](https://github.com/Arondith/Schola)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-[![Alchemist45](https://github-readme-stats.vercel.app/api/pin/?username=Arondith&repo=Alchemist45&theme=tokyonight&hide_border=true)](https://github.com/Arondith/Alchemist45)
-[![Schola](https://github-readme-stats.vercel.app/api/pin/?username=Arondith&repo=Schola&theme=tokyonight&hide_border=true)](https://github.com/Arondith/Schola)
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith?tab=repositories)
 
 </div>
 
