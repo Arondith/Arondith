@@ -1,0 +1,31 @@
+name: Daily profile activity
+
+on:
+  schedule:
+    # 12:17 UTC = 8:17 PM in the Philippines (UTC+8)
+    - cron: '17 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update daily activity log
+        shell: bash
+        run: |
+          set -e
+          mkdir -p activity
+          DATE_UTC="$(date -u +'%Y-%m-%d')"
+          echo "- ${DATE_UTC}: Automated profile repository maintenance." >> activity/daily-log.md
+
+          git config user.name "Arondith"
+          git config user.email "175915379+Arondith@users.noreply.github.com"
+          git add activity/daily-log.md
+          git commit -m "chore: daily activity ${DATE_UTC}"
+          git push
