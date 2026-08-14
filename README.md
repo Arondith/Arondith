@@ -119,7 +119,8 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ### Competitions & Professional Learning
 
-- 🏁 **Hack4Gov 2025 Capture the Flag Competition** — Certificate of Participation, Region XII · 2025
+- 🏁 **Hack4Gov 2025 Capture the Flag Competition** — Certificate of Participation, Region XII · 2025  
+  *Theme: “Cyber Guardians: Empowering Today’s Defenders, Securing Tomorrow’s Digital Nation.”*
 
 ---
 
