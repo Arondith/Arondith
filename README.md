@@ -107,11 +107,19 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
 <br/>
 <img src="https://img.shields.io/badge/Cisco_Networking_Academy-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management" />
+<br/>
+<img src="https://img.shields.io/badge/Hack4Gov_2025-Capture_the_Flag_%7C_Region_XII-6E40C9?style=for-the-badge" alt="Hack4Gov 2025 Capture the Flag Competition" />
 
 </div>
 
+### Certifications
+
 - 🎓 **Google Cybersecurity Professional Certificate** — Coursera, 2026
 - 🛡️ **Cyber Threat Management** — Cisco Networking Academy, 2026
+
+### Competitions & Professional Learning
+
+- 🏁 **Hack4Gov 2025 Capture the Flag Competition** — Certificate of Participation, Region XII · 2025
 
 ---
 
