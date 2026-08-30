@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:4C1D95,45:6E40C9,100:A371F7&text=ARONDITE&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
-### Hi, I'm **Charles Templonuevo** 👋
+### Hi, I'm **Charles Templonuevo**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=IT+Student+%26+Developer;Cybersecurity+%7C+Networking;Web+Development+%7C+Augmented+Reality;Building+practical+projects+that+solve+real+problems" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Programming Languages & Tools
+## Programming Languages & Tools
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```csharp
 public class Arondite
@@ -65,9 +65,9 @@ public class Arondite
 
 ---
 
-## 💼 Client Work
+## Client Work
 
-### ✨ Alchemists & Architects
+### Alchemists & Architects
 
 **International Client · Seattle, USA · Production Website**
 
@@ -79,16 +79,16 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🥽 **KoroAR** — developing a mobile augmented reality museum experience using **Unity, C#, and Vuforia**, with interactive 3D cultural-heritage content.
-- 🔐 Strengthening practical knowledge in **cybersecurity, threat management, incident response, and secure systems**.
-- 🌐 Improving skills in **networking, web development, Git/GitHub workflows, and software development**.
-- 🧪 Continuing to build hands-on projects that turn technical concepts into working applications.
+- **KoroAR** — developing a mobile augmented reality museum experience using **Unity, C#, and Vuforia**, with interactive 3D cultural-heritage content.
+- Strengthening practical knowledge in **cybersecurity, threat management, incident response, and secure systems**.
+- Improving skills in **networking, web development, Git/GitHub workflows, and software development**.
+- Continuing to build hands-on projects that turn technical concepts into working applications.
 
 ---
 
-## 🧩 Selected Projects
+## Selected Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -100,7 +100,7 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ---
 
-## 🛡️ Certifications & Professional Learning
+## Certifications & Professional Learning
 
 <div align="center">
 
@@ -114,26 +114,26 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ### Certifications
 
-- 🎓 **Google Cybersecurity Professional Certificate** — Coursera, 2026
-- 🛡️ **Cyber Threat Management** — Cisco Networking Academy, 2026
+- **Google Cybersecurity Professional Certificate** — Coursera, 2026
+- **Cyber Threat Management** — Cisco Networking Academy, 2026
 
 ### Competitions & Professional Learning
 
-- 🏁 **Hack4Gov 2025 Capture the Flag Competition** — Certificate of Participation, Region XII · 2025  
+- **Hack4Gov 2025 Capture the Flag Competition** — Certificate of Participation, Region XII · 2025  
   *Theme: “Cyber Guardians: Empowering Today’s Defenders, Securing Tomorrow’s Digital Nation.”*
 
 ---
 
-## 🌐 Networking & Cybersecurity
+## Networking & Cybersecurity
 
-- 🔎 Learning **threat identification, analysis, and incident-response concepts**.
-- 🌐 Building stronger foundations in **networking and network security**.
-- 🧰 Developing practical skills through **Cisco, Google/Coursera, and hands-on technical projects**.
-- 🔒 Interested in building software and systems with **security, reliability, and usability** in mind.
+- Learning **threat identification, analysis, and incident-response concepts**.
+- Building stronger foundations in **networking and network security**.
+- Developing practical skills through **Cisco, Google/Coursera, and hands-on technical projects**.
+- Interested in building software and systems with **security, reliability, and usability** in mind.
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -152,13 +152,13 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ---
 
-## 📌 Featured Repositories
+## Featured Repositories
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✨ [Alchemist45](https://github.com/Arondith/Alchemist45)
+### [Alchemist45](https://github.com/Arondith/Alchemist45)
 
 **International Client Website · Production Project**
 
@@ -172,7 +172,7 @@ Responsive website created for **Alchemists & Architects**, a luxury salon in Se
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Schola](https://github.com/Arondith/Schola)
+### [Schola](https://github.com/Arondith/Schola)
 
 **Study Platform · Front-End Prototype**
 
@@ -195,7 +195,7 @@ Responsive learning platform featuring a study planner, focus timer, resource li
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -209,7 +209,7 @@ Responsive learning platform featuring a study planner, focus timer, resource li
 
 <div align="center">
 
-### `Build. Secure. Learn. Repeat.` ⚡
+### `Build. Secure. Learn. Repeat.`
 
 <sub>Keep learning · Keep building · Keep improving</sub>
 
