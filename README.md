@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:4C1D95,45:6E40C9,100:A371F7&text=ARONDITE&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
-### Hi, I'm **Charles Templonuevo**
+### Hi, I'm **Charles Luke Templonuevo**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=IT+Student+%26+Developer;Cybersecurity+%7C+Networking;Web+Development+%7C+Augmented+Reality;Building+practical+projects+that+solve+real+problems" alt="Typing SVG" />
 
