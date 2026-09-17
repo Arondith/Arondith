@@ -10,6 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arondith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Charles_Luke_Templonuevo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://charles-luke-templonuevo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charles_Luke_Templonuevo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-luke-templonuevo-495b54356/)
 [![Client Website](https://img.shields.io/badge/Live_Client_Project-Alchemists_%26_Architects-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alchemistsarchitects.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arondith&style=for-the-badge&label=PROFILE+VIEWS&color=6E40C9)](https://github.com/Arondith)
 
@@ -202,6 +203,7 @@ Responsive learning platform featuring a study planner, focus timer, resource li
 
 [![GitHub](https://img.shields.io/badge/GITHUB-ARONDITH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_SITE-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://charles-luke-templonuevo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-luke-templonuevo-495b54356/)
 [![Projects](https://img.shields.io/badge/VIEW-MY_PROJECTS-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arondith?tab=repositories)
 [![Client Work](https://img.shields.io/badge/LIVE-CLIENT_WORK-A371F7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alchemistsarchitects.com/)
 
