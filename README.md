@@ -95,6 +95,7 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 | Project | Description | Stack |
 |---|---|---|
 | **[Alchemist45](https://github.com/Arondith/Alchemist45)** | Production website delivered for an international client | Web Development |
+| **[FutureStack Lab](https://github.com/Arondith/Arondith/tree/main/future-stack-lab)** | Polyglot developer toolkit demonstrating future-ready backend, automation, concurrency, and systems skills | TypeScript · Python · Go · Java · Rust |
 | **KoroAR** | Mobile AR museum for exploring cultural heritage through interactive 3D content | Unity · C# · Vuforia |
 | **[Schola](https://github.com/Arondith/Schola)** | Responsive study-platform prototype with planning, resources, flashcards, and focus tools | HTML · CSS · JavaScript |
 | **[CourseRecommender](https://github.com/Arondith/CourseRecommender)** | Course recommendation and administration system with authentication | PHP · JavaScript · Database |
