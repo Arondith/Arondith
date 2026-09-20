@@ -107,7 +107,13 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+<a href="https://coursera.org/share/769be5ae9f21ae6c7019a2cf0a422a5e">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+</a>
+<br/>
+<a href="https://coursera.org/share/0c796ef16ab709548967214ff3bd22d1">
+  <img src="https://img.shields.io/badge/Google-IT_Support_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional Certificate" />
+</a>
 <br/>
 <img src="https://img.shields.io/badge/Cisco_Networking_Academy-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management" />
 <br/>
@@ -117,7 +123,8 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ### Certifications
 
-- **Google Cybersecurity Professional Certificate** — Coursera, 2026
+- **[Google Cybersecurity Professional Certificate](https://coursera.org/share/769be5ae9f21ae6c7019a2cf0a422a5e)** — Google · Coursera, 2026
+- **[Google IT Support Professional Certificate](https://coursera.org/share/0c796ef16ab709548967214ff3bd22d1)** — Google · Coursera, 2026
 - **Cyber Threat Management** — Cisco Networking Academy, 2026
 
 ### Competitions & Professional Learning
