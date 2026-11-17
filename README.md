@@ -109,6 +109,8 @@ Coverage of **KoroAR**, my undergraduate thesis project on exploring Koronadal C
 
 - **Inquirer.net** — [IT student develops app to bring Koronadal’s heritage to life](https://newsinfo.inquirer.net/2326977/it-student-develops-app-to-bring-koronadals-heritage-to-life)
 - **Notre Dame of Marbel University** — [NDMU-CSD student develops KoroAR, a mobile augmented reality museum](https://www.ndmu.edu.ph/post/ndmu-csd-student-develops-koroar-a-mobile-augmented-reality-museum-showcasing-koronadal-city-s-cult)
+- **DZMM Teleradyo** — [Aprub Yan interview about KoroAR (12:55)](https://www.youtube.com/watch?v=hUV1FKIRXis&t=775s)
+- **Bombo Radyo Koronadal** — Live radio interview about KoroAR
 
 ---
 
