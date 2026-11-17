@@ -103,6 +103,15 @@ I designed and developed a modern, responsive website for **Alchemists & Archite
 
 ---
 
+## Featured In
+
+Coverage of **KoroAR**, my undergraduate thesis project on exploring Koronadal City’s cultural heritage through augmented reality.
+
+- **Inquirer.net** — [IT student develops app to bring Koronadal’s heritage to life](https://newsinfo.inquirer.net/2326977/it-student-develops-app-to-bring-koronadals-heritage-to-life)
+- **Notre Dame of Marbel University** — [NDMU-CSD student develops KoroAR, a mobile augmented reality museum](https://www.ndmu.edu.ph/post/ndmu-csd-student-develops-koroar-a-mobile-augmented-reality-museum-showcasing-koronadal-city-s-cult)
+
+---
+
 ## Certifications & Professional Learning
 
 <div align="center">
