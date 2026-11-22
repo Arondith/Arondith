@@ -118,11 +118,11 @@ Coverage of **KoroAR**, my undergraduate thesis project on exploring Koronadal C
 
 <div align="center">
 
-<a href="https://coursera.org/share/769be5ae9f21ae6c7019a2cf0a422a5e">
+<a href="https://coursera.org/share/0c796ef16ab709548967214ff3bd22d1">
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
 </a>
 <br/>
-<a href="https://coursera.org/share/0c796ef16ab709548967214ff3bd22d1">
+<a href="https://coursera.org/share/769be5ae9f21ae6c7019a2cf0a422a5e">
   <img src="https://img.shields.io/badge/Google-IT_Support_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional Certificate" />
 </a>
 <br/>
@@ -134,8 +134,8 @@ Coverage of **KoroAR**, my undergraduate thesis project on exploring Koronadal C
 
 ### Certifications
 
-- **[Google Cybersecurity Professional Certificate](https://coursera.org/share/769be5ae9f21ae6c7019a2cf0a422a5e)** — Google · Coursera, 2026
-- **[Google IT Support Professional Certificate](https://coursera.org/share/0c796ef16ab709548967214ff3bd22d1)** — Google · Coursera, 2026
+- **[Google Cybersecurity Professional Certificate](https://coursera.org/share/0c796ef16ab709548967214ff3bd22d1)** — Google · Coursera, 2026
+- **[Google IT Support Professional Certificate](https://coursera.org/share/769be5ae9f21ae6c7019a2cf0a422a5e)** — Google · Coursera, 2026
 - **Cyber Threat Management** — Cisco Networking Academy, 2026
 
 ### Competitions & Professional Learning
